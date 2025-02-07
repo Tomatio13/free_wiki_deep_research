@@ -176,3 +176,11 @@ cython_debug/
 node_modules
 
 .cursorrules
+
+choroma_db
+output
+
+# ログファイル
+*.log
+
+# テストファイル
