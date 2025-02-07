@@ -1,0 +1,27 @@
+# LLMとベクトルストア
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+langchain-chroma>=0.0.1
+langchain-ollama>=0.1.0
+langchain-huggingface>=0.1.0
+chromadb>=0.4.22
+
+# 埋め込みモデル
+transformers>=4.36.0
+sentence-transformers>=2.2.2
+torch>=2.1.0
+
+# Wikipedia API
+wikipedia-api>=0.6.0
+
+# ユーティリティ
+tqdm>=4.66.1
+regex>=2023.10.3
+json-repair>=0.8.3
+
+# ロギング
+logging
+
+# その他
+requests>=2.31.0 
